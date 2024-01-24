@@ -1,0 +1,19 @@
+.card-body {
+    background-color: aqua;
+}
+.process-container {
+    display: flex;
+    justify-content: center;
+    background-color: lavender;
+    width: 70%;
+    border-radius: 30px;
+    
+}
+.design-process {
+    text-align: center;
+    padding: 30px;
+}
+.definition { 
+    background-color: #2D2D2D;
+    color: white;
+}
